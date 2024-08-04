@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm HOÀNG TẤN PHÚ QUỐC 👋
 
-<!--
-**phuquocchamp/phuquocchamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+I am a passionate **Java Backend Developer** with a strong drive to excel and grow in my field. My goal is to become a **Senior Developer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Technologies
+- **Java** & **Spring Boot**
+- **Python**: Django, FastAPI
+- **Rust**
+- ...and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Focus
+- Enhancing my backend development skills.
+- Researching and learning about AI technologies.
+
+### 🔗 Connect with Me
+- [GitHub](https://github.com/phuquocchamp)
+- [LinkedIn](https://www.linkedin.com/in/hoangtanphuquoc)
+- [Email](mailto:hoangtanphuquoc@example.com)
+
+### ⚡ Fun Fact
+When I'm not coding, I love to explore new technologies and read about advancements in AI.
+
+---
