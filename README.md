@@ -1,12 +1,16 @@
 # Hi there, I'm HOÀNG TẤN PHÚ QUỐC 👋
 
 ### 🌟 About Me
-I am a passionate **Java Backend Developer** with a strong drive to excel and grow in my field. My goal is to become a **Senior Developer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
+I am a passionate **Software Engineer** with a strong drive to excel and grow in my field. My goal is to become a **Senior Developer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
 
 ### 🛠️ Languages & Technologies
 - **Java** & **Spring Boot**
 - **Python**: Django, FastAPI
+- **GoLang**: Gin
 - **Rust**
+- **Docker**
+- **AWS**
+- **LLM**
 - ...and more!
 
 ### 🌱 Current Focus
@@ -15,7 +19,7 @@ I am a passionate **Java Backend Developer** with a strong drive to excel and gr
 
 ### 🔗 Connect with Me
 - [GitHub](https://github.com/phuquocchamp)
-- [LinkedIn](https://www.linkedin.com/in/hoangtanphuquoc)
+- [LinkedIn](https://www.linkedin.com/in/phuquocchamp)
 - [Email](mailto:hoangtanphuquoc@example.com)
 
 ### ⚡ Fun Fact
