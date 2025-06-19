@@ -1,14 +1,15 @@
 # Hi there, I'm HOÀNG TẤN PHÚ QUỐC 👋
 
 ### 🌟 About Me
-I am a passionate **Software Engineer** with a strong drive to excel and grow in my field. My goal is to become a **Senior Developer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
+I am a passionate **Software Engineering** with a strong drive to excel and grow in my field. My goal is to become a **Senior Developer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
 
 ### 🛠️ Languages & Technologies
 - **Java** & **Spring Boot**
 - **Python**: Django, FastAPI
-- **GoLang**: Gin
+- **Go**: Gin
 - **Rust**
 - **Docker**
+- **K8S**
 - **AWS**
 - **LLM**
 - ...and more!
