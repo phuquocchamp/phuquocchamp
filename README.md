@@ -1,18 +1,17 @@
 # Hi there, I'm HOANG TAN PHU QUOC 👋
 
 ### 🌟 About Me
-I am a passionate **Software Engineering** with a strong drive to excel and grow in my field. My goal is to become a **Principal Software Engineer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
+I am a passionate **AI/Software Engineering** with a strong drive to excel and grow in my field. My goal is to become a **Principal AI/Software Engineer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
 
 ### 🛠️ Languages & Technologies
-- **Java** & **Spring Boot**
 - **Python**: Django, FastAPI
-- **Go**: Gin
+- **LLM/Agent**
+- **Java** & **Spring Boot**
 - **Nodejs**
-- **Rust**
 - **Docker**
 - **K8S**
 - **AWS**
-- **LLM**
+
 - ...and more!
 
 ### 🌱 Current Focus
