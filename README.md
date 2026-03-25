@@ -4,26 +4,21 @@
 I am a passionate **AI/Software Engineering** with a strong drive to excel and grow in my field. My goal is to become a **Principal AI/Software Engineer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
 
 ### 🛠️ Languages & Technologies
-- **Python**: Django, FastAPI
+- **Python**: FastAPI, Django
+- **Javascript/Typescripts**: Express
 - **LLM/Agent**
+- **Pre-trained Models**
 - **Java** & **Spring Boot**
-- **Nodejs**
-- **Docker**
-- **K8S**
-- **AWS**
-
+- **Containerization**: Docker, K8S, Helm, ...
+- **Clouds**: AWS, Azure
 - ...and more!
 
 ### 🌱 Current Focus
-- Enhancing my backend development skills.
+- Enhancing my AI/Backend development skills.
 - Researching and learning about AI technologies.
 
 ### 🔗 Connect with Me
 - [GitHub](https://github.com/phuquocchamp)
 - [LinkedIn](https://www.linkedin.com/in/phuquocchamp)
 - [Email](mailto:hoangtanphuquoc@example.com)
-
-### ⚡ Fun Fact
-When I'm not coding, I love to explore new technologies and read about advancements in AI.
-
 ---
