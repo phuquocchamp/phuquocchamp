@@ -1,4 +1,4 @@
-# Hi there, I'm HOANG TAN PHU QUOC 👋
+# Hi there, I'm Quoc Hoang - AI Engineer 👋
 
 ### 🌟 About Me
 I am a passionate **AI/Software Engineering** with a strong drive to excel and grow in my field. My goal is to become a **Principal AI/Software Engineer** in the shortest time possible while also delving into the exciting realms of **Artificial Intelligence**.
